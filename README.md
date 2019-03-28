@@ -1,6 +1,6 @@
-# Hot to make cute Pull Request
+# How to make a cute Pull Request
 
-Hot to make cute Pull Request, document your project abd facilitate Code Review.
+How to make a cute Pull Request, document your project abd facilitate Code Review.
 
 ![](./cover.png)
 
@@ -10,7 +10,7 @@ Hot to make cute Pull Request, document your project abd facilitate Code Review.
 
 ## Output
 
-- [Source](./Hot%20to%20make%20cute%20Pull%20Request.md)
-- [Generated PDF](./Hot%20to%20make%20cute%20Pull%20Request.pdf)
+- [PDF](./How%20to%20make%20a%20cute%20Pull%20Request.pdf)
+- [Markdown](./How%20to%20make%20a%20cute%20Pull%20Request.md)
 
 > Presentation was made with [Deckset](https://www.decksetapp.com) and [MacDown](https://macdown.uranusjr.com/)
